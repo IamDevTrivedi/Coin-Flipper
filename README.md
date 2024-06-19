@@ -3,7 +3,7 @@
 ## Overview
 "**Heads or Tails**" is a simple web-based game where users can flip a virtual coin to see whether it lands on heads or tails. The game keeps track of the number of heads and tails flipped, and users can interact with the coin either by clicking it, pressing a button, or using the keyboard.
 
-To view the Website : [click here](https://iamdevtrivedi.github.io/coin-flipper)
+To view the Website : [click here](https://iamdevtrivedi.github.io/Coin-Flipper/)
 
 ## Features
 - **Coin Flip**: Simulate a coin flip and display either "HEADS" or "TAILS".
